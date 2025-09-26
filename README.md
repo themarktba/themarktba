@@ -15,4 +15,4 @@ List of games that I like to play on my school's ipad. No guarantees that these 
  
 ### Shooting / Action
  - Hills of steel - https://geometrydashworld.github.io/
- - MineFun.io - [https://dinosaur-game.io/minefun-io](https://minefun-io.github.io/)
+ - MineFun.io -  https://minefun-io.github.io/
