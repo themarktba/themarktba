@@ -9,9 +9,10 @@ List of games that I like to play on my school's ipad. No guarantees that these 
  - Mortal Kombat 2 - [https://sites.google.com/view/drive-u-7-home/flash-games/mortal-combat](https://amhooman.github.io/website/games/mortalkombat/)
  - Sonic - [https://sites.google.com/view/drive-u-7-home/flash-games/flash-sonic](https://amhooman.github.io/website/games/ultimateflashsonic/)
 
-### Racing 
+### Racing / Driving
 
  - Drive Mad - https://candy-jump.github.io/
+ - Slow Roads - https://the26pershing.github.io/slow-roads/
  
 ### Shooting / Action
  - Hills of steel - https://geometrydashworld.github.io/
