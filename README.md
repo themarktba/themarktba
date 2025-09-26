@@ -6,7 +6,7 @@ List of games that I like to play on my school's ipad. No guarantees that these 
 
  - Moto X3M / https://moto-x3monline.github.io/
  - Eaglecraft (minecraft) - https://eaglercraft-unblocked.neocities.org/ (use EaglyMC 1.20)
- - Mortal Kombat 2 - https://sites.google.com/view/drive-u-7-home/flash-games/mortal-combat
+ - ~Mortal Kombat 2 - https://sites.google.com/view/drive-u-7-home/flash-games/mortal-combat~
 
 ### Racing 
 
