@@ -4,6 +4,7 @@ List of games that I like to play on my school's ipad. No guarantees that these 
 
 ### Arcade / Classic
 
+ - Moto X3M / https://moto-x3monline.github.io/ 
 
 ### Racing 
 
