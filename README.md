@@ -5,8 +5,11 @@ List of games that I like to play on my school's ipad. No guarantees that these 
 ### Arcade / Classic
 
  - Moto X3M / https://moto-x3monline.github.io/
- - Eaglecraft (minecraft) - https://eaglercraft.com/mc/1.8.8
+ - Eaglecraft (minecraft) - https://eaglercraft-unblocked.neocities.org/ (not working)
+ - 
 
 ### Racing 
 
+ - Drive Mad - 
+ 
 ### Shooting / Action
