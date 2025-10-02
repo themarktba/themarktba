@@ -11,7 +11,7 @@ List of games that I like to play on my school's ipad. No guarantees that these 
 
 ### Racing / Driving
 
- - Drive Mad - https://candy-jump.github.io/
+ - Drive Mad - https://drive-madgame.github.io/
  - Slow Roads - https://the26pershing.github.io/slow-roads/
  
 ### Shooting / Action
