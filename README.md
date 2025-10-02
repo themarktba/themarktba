@@ -14,6 +14,7 @@ List of games that I like to play on my school's ipad. No guarantees that these 
  - Drive Mad - https://drive-madgame.github.io/
  - Slow Roads - https://the26pershing.github.io/slow-roads/
  - Smash carts - https://smashkartsonline.github.io/
+ - stunt bike extreme https://unblockedgamesgg.github.io/stunt-bike-extreme
  
 ### Shooting / Action
  - Hills of steel - https://geometrydashworld.github.io/
